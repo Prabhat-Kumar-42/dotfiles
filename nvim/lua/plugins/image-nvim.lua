@@ -1,5 +1,4 @@
 return {
-    	  "3rd/image.nvim",
-    	  dependencies = { "luarocks.nvim" },
+  "3rd/image.nvim",
+  dependencies = { "luarocks.nvim" },
 }
-

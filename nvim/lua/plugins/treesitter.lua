@@ -24,5 +24,11 @@ return {
         },
       },
     })
+
+    -- EJS Config --
+    vim.treesitter.language.register("html", "ejs")
+    vim.treesitter.language.register("javascript", "ejs")
+    -- HTTP Config --
+    vim.treesitter.language.register("http", "http")
   end,
 }

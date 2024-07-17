@@ -1,10 +1,10 @@
 return {
-  'akinsho/bufferline.nvim',
-  version = '*',
+  "akinsho/bufferline.nvim",
+  version = "*",
   opts = {
     options = {
-      mode = 'tabs',
-      seperator_style = 'slant',
+      mode = "tabs",
+      seperator_style = "slant",
     },
   },
 }
