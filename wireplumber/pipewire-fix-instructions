@@ -1,0 +1,4 @@
+# Pipewire Fix for Virtual Machines
+
+If you're experiencing stuttering audio in virtual machines using Pipewire, you can try the troubleshooting steps outlined [here](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine).
+
